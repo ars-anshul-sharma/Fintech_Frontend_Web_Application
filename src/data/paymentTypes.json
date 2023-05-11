@@ -1,0 +1,24 @@
+{
+    "paymentTypes": [
+        {
+            "value": "Visa",
+            "id": "visa",
+            "image": "Visa-logo.png"
+        },
+        {
+            "value": "Mastercard",
+            "id": "mastercard",
+            "image": "Mastercard-logo.png"
+        },
+        {
+            "value": "JCB",
+            "id": "jcb",
+            "image": "JCB-logo.png"
+        },
+        {
+            "value": "American Express",
+            "id": "amex",
+            "image": "Amex-logo.png"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "questions": [
+        {
+            "value": "Annual membership fee is free for many years",
+            "id": 1
+        },
+        {
+            "value": "women",
+            "id": 2
+        },
+        {
+            "value": "You can choose the design",
+            "id": 3
+        },
+        {
+            "value": "Airport lounge",
+            "id": 4
+        },
+        {
+            "value": "Points + 5 times at Rakuten Ichiba",
+            "id": 5
+        },
+        {
+            "value": "Earn miles",
+            "id": 6
+        },
+        {
+            "value": "Student Limit",
+            "id": 7
+        },
+        {
+            "value": "Bank account is attached",
+            "id": 8
+        },
+        
+        {
+            "value": "Earn points other than Rakuten",
+            "id": 9
+        }
+    ]
+}

@@ -1,0 +1,787 @@
+{
+    "cards": [
+      {
+        "type": "visa",
+        "id": 1,
+        "name": "Gold",
+        "desc": "This is a card",
+        "image": "gold_card.png",
+        "comparables": [
+          {
+            "name": "International brand",
+            "values": [
+              "Visa",
+              "MasterCard",
+              "JCB"
+            ]
+          },
+          {
+            "name": "Annual membership fee (tax included)",
+            "values": [
+              "¥2,200"
+            ]
+          },
+          {
+            "name": "Point",
+            "values": [
+              "1 point for every 100 you buy in the city",
+              "Points + 3 times at Rakuten Ichiba"
+            ]
+          },
+          {
+            "name": "Design Type",
+            "values": [
+              "Normal Design"
+            ]
+          },
+          {
+            "name": "Other features",
+            "values": [
+              "Free access to domestic airport lounges twice a year"
+            ]
+          }
+        ],
+        "features": [
+          "Free access to domestic airport lounges up to twice a year"
+        ]
+      },
+      {
+        "type": "visa",
+        "id": 2,
+        "name": "Premium Card",
+        "desc": "This is a card",
+        "image": "premium.png",
+        "comparables": [
+          {
+            "name": "International brand",
+            "values": [
+              "Visa",
+              "MasterCard",
+              "JCB",
+              "American Express"
+            ]
+          },
+          {
+            "name": "Annual membership fee (tax included)",
+            "values": [
+              "¥11,000"
+            ]
+          },
+          {
+            "name": "Point",
+            "values": [
+              "1 point for every 100 you buy in the city",
+              "Points + 5 times at Rakuten Ichiba"
+            ]
+          },
+          {
+            "name": "Design Type",
+            "values": [
+              "Normal Design"
+            ]
+          },
+          {
+            "name": "Other features",
+            "values": [
+              "Free access to domestic airport lounges",
+              "Free registration for Priority Pass, which allows you to use more than 1,300 airport lounges around the world"
+            ]
+          }
+        ],
+        "features": [
+          "Free domestic airport lounge",
+          "Points + 5 times at Rakuten Ichiba",
+          "Free access to overseas airport lounges by issuing Priority Pass"
+        ]
+      },
+      {
+        "type": "visa",
+        "id": 3,
+        "name": "Barcelona",
+        "desc": "This is a card",
+        "image": "barcelona.png",
+        "comparables": [
+          {
+            "name": "International Brand",
+            "values": [
+              "MasterCard",
+              "JCB"
+            ]
+          },
+          {
+            "name": "Annual membership fee (tax included)",
+            "values": [
+              "Free for many years"
+            ]
+          },
+          {
+            "name": "Point",
+            "values": [
+            ]
+          },
+          {
+            "name": "Design Type",
+            "values": [
+              "Emblem design",
+              "Player design"
+            ]
+          },
+          {
+            "name": "Other features",
+            "values": [
+              "Free access to domestic airport lounges",
+              "20% off mobile / WiFi router rental"
+            ]
+          }
+        ],
+        "features": [
+          "Annual membership fee is free for many years",
+          "Earn points other than Rakuten"
+        ]
+      },
+      {
+        "type": "visa",
+        "id": 4,
+        "name": "Rakuten ANA Mileage Club Card",
+        "desc": "This is a card",
+        "image": "ana.png",
+        "comparables": [
+          {
+            "name": "International Brand",
+            "values": [
+              "Visa",
+              "MasterCard",
+              "JCB"
+            ]
+          },
+          {
+            "name": "Annual membership fee (tax included)",
+            "values": [
+              "Free for the first year * Free of charge for 550 yen(tax included)for one use from the following year"
+            ]
+          },
+          {
+            "name": "Point",
+            "values": [
+              "1 point for every 100 yen you buy in the city",
+              "Points + 3 times at Rakuten Ichiba"
+            ]
+          },
+          {
+            "name": "Design Type",
+            "values": [
+              "Normal design",
+              "Pink design"
+            ]
+          },
+          {
+            "name": "Other Features",
+            "values": [
+              "Earn ANA Miles on flights",
+              "Redeem miles for airline tickets and merchandise"
+            ]
+          }
+        ],
+        "features": [
+          "With ANA Mileage Club function",
+          "Points + 3 times at Rakuten Ichiba",
+          "You can choose the design"
+        ]
+      },
+      {
+        "type": "mastercard",
+        "id": 5,
+        "name": "Eagles",
+        "desc": "This is a card",
+        "image": "eagles.png",
+        "comparables": [
+          {
+            "name": "International Brand",
+            "values": [
+              "MasterCard",
+              "JCB"
+            ]
+          },
+          {
+            "name": "Annual membership fee (tax included)",
+            "values": [
+              "Free for many years"
+            ]
+          },
+          {
+            "name": "Point",
+            "values": [
+              "1 point for every 100 yen you buy in the city",
+              "Points + 5 times at Rakuten Ichiba"
+            ]
+          },
+          {
+            "name": "Design Type",
+            "values": [
+              "Normal Design"
+            ]
+          },
+          {
+            "name": "Other features",
+            "values": [
+              "Baggage delivery service",
+              "10% off overseas rental cars"
+            ]
+          }
+        ],
+        "features": [
+          "Annual membership fee is free for many years",
+          "Earn points other than Rakuten",
+          "Points + 5 times at Rakuten Ichiba"
+
+        ]
+      },
+      {
+        "type": "mastercard",
+        "id": 6,
+        "name": "Barcelona",
+        "desc": "This is a card",
+        "image": "barcelona.png",
+        "comparables": [
+          {
+            "name": "International Brand",
+            "values": [
+              "MasterCard",
+              "JCB"
+            ]
+          },
+          {
+            "name": "Annual membership fee (tax included)",
+            "values": [
+              "Free for many years"
+            ]
+          },
+          {
+            "name": "Point",
+            "values": [
+            ]
+          },
+          {
+            "name": "Design Type",
+            "values": [
+              "Emblem design",
+              "Player design"
+            ]
+          },
+          {
+            "name": "Other features",
+            "values": [
+              "Free access to domestic airport lounges",
+              "20% off mobile / WiFi router rental"
+            ]
+          }
+        ],
+        "features": [
+          "Annual membership fee is free for many years",
+          "Earn points other than Rakuten"
+        ]
+      },
+      {
+        "type": "mastercard",
+        "id": 7,
+        "name": "Yoshiki Design",
+        "desc": "This is a card",
+        "image": "yoshiki.png",
+        "comparables": [
+          {
+            "name": "International Brand",
+            "values": [
+              "MasterCard"
+            ]
+          },
+          {
+            "name": "Annual membership fee (tax included)",
+            "values": ["Free for many years"]
+          },
+          {
+            "name": "Point",
+            "values": [
+              
+            ]
+          },
+          {
+            "name": "Design Type",
+            "values": [
+              "Normal Design"
+            ]
+          },
+          {
+            "name": "Other features",
+            "values": [
+              "Free access to domestic airport lounges",
+              "20% off mobile / WiFi router rental"
+            ]
+          }
+        ],
+        "features": [
+          "Annual membership fee is free for many years",
+          "Earn points other than Rakuten",
+          "Earn miles"
+        ]
+      },
+      {
+        "type": "mastercard",
+        "id": 8,
+        "name": " Pink Card",
+        "desc": "This is a card",
+        "image": "pink.png",
+        "comparables": [
+          {
+            "name": "International Brand",
+            "values": [
+              "Visa",
+              "MasterCard",
+              "American Express",
+              "JCB"
+            ]
+          },
+          {
+            "name": "Annual membership fee (tax included)",
+            "values": [
+              "Free for many years"
+            ]
+          },
+          {
+            "name": "Point",
+            "values": [
+              "1 point for every 100 yen you buy in the city",
+              "Points + 3 times at Rakuten Ichiba"
+            ]
+          },
+          {
+            "name": "Design Type",
+            "values": [
+              "Normal Design",
+              "Panda design for shopping",
+              "Minnie Mouse Design",
+              "Mickey mouse design"
+            ]
+          },
+          {
+            "name": "Other Features",
+            "values": [
+              "Customization service",
+              "Rakuten Group Special Offer Service",
+              "Lifestyle support service",
+              "Insurance for women"
+            ]
+          }
+        ],
+        "features": [
+          "Recommended for women",
+          "You can choose the design",
+          "Points + 3 times at Rakuten Ichiba",
+          "Selectable customization service (* 1)"
+        ]
+      },
+      {
+        "type": "amex",
+        "id": 9,
+        "name": "Gold",
+        "desc": "This is a card",
+        "image": "gold_card.png",
+        "comparables": [
+          {
+            "name": "International brand",
+            "values": [
+              "Visa",
+              "MasterCard",
+              "JCB"
+            ]
+          },
+          {
+            "name": "Annual membership fee (tax included)",
+            "values": [
+              "¥2,200"
+            ]
+          },
+          {
+            "name": "Point",
+            "values": [
+              "1 point for every 100 you buy in the city",
+              "Points + 3 times at Rakuten Ichiba"
+            ]
+          },
+          {
+            "name": "Design Type",
+            "values": [
+              "Normal Design"
+            ]
+          },
+          {
+            "name": "Other features",
+            "values": [
+              "Free access to domestic airport lounges twice a year"
+            ]
+          }
+        ],
+        "features": [
+          "Free access to domestic airport lounges up to twice a year"
+        ]
+      },
+      {
+        "type": "amex",
+        "id": 10,
+        "name": " Pink Card",
+        "desc": "This is a card",
+        "image": "pink.png",
+        "comparables": [
+          {
+            "name": "International Brand",
+            "values": [
+              "Visa",
+              "MasterCard",
+              "American Express",
+              "JCB"
+            ]
+          },
+          {
+            "name": "Annual membership fee (tax included)",
+            "values": [
+              "Free for many years"
+            ]
+          },
+          {
+            "name": "Point",
+            "values": [
+              "1 point for every 100 you buy in the city",
+              "Points + 3 times at Rakuten Ichiba"
+            ]
+          },
+          {
+            "name": "Design Type",
+            "values": [
+              "Normal Design",
+              "Panda design for shopping",
+              "Minnie Mouse Design",
+              "Mickey mouse design"
+            ]
+          },
+          {
+            "name": "Other Features",
+            "values": [
+              "Customization service",
+              "Rakuten Group Special Offer Service",
+              "Lifestyle support service",
+              "Insurance for women"
+            ]
+          }
+        ],
+        "features": [
+          "Recommended for women",
+          "You can choose the design",
+          "Points + 3 times at Rakuten Ichiba",
+          "Selectable customization service (* 1)"
+        ]
+      },
+      {
+        "type": "amex",
+        "id": 11,
+        "name": "Premium Card",
+        "desc": "This is a card",
+        "image": "premium.png",
+        "comparables": [
+          {
+            "name": "International brand",
+            "values": [
+              "Visa",
+              "MasterCard",
+              "JCB",
+              "American Express"
+            ]
+          },
+          {
+            "name": "Annual membership fee (tax included)",
+            "values": [
+              "¥11,000"
+            ]
+          },
+          {
+            "name": "Point",
+            "values": [
+              "1 point for every 100 you buy in the city",
+              "Points + 5 times at Rakuten Ichiba"
+            ]
+          },
+          {
+            "name": "Design Type",
+            "values": [
+              "Normal Design"
+            ]
+          },
+          {
+            "name": "Other features",
+            "values": [
+              "Free access to domestic airport lounges",
+              "Free registration for Priority Pass, which allows you to use more than 1,300 airport lounges around the world"
+            ]
+          }
+        ],
+        "features": [
+          "Free domestic airport lounge",
+          "Points + 5 times at Rakuten Ichiba",
+          "Free access to overseas airport lounges by issuing Priority Pass"
+        ]
+      },
+      {
+        "type": "jcb",
+        "id": 12,
+        "name": "Pink(Panda)",
+        "desc": "This is a card",
+        "image": "panda_pink.png",
+        "comparables": [
+          {
+            "name": "International Brand",
+            "values": [
+              "Visa",
+              "MasterCard",
+              "JCB",
+              "American Express"
+            ]
+          },
+          {
+            "name": "Annual membership fee (tax included)",
+            "values": [
+              "Free for many years"
+            ]
+          },
+          {
+            "name": "Point",
+            "values": [
+              "1 point for every 100 you buy in the city",
+              "Points + 3 times at Rakuten Ichiba"
+            ]
+          },
+          {
+            "name": "Design Type",
+            "values": [
+              "Normal Design",
+              "Panda design for shopping",
+              "Minnie Mouse Design",
+              "Mickey mouse design"
+            ]
+          },
+          {
+            "name": "Other Features",
+            "values": [
+              "Customization service",
+              "Rakuten Group Special Offer Service",
+              "Lifestyle support service",
+              "Insurance for women"
+            ]
+          }
+        ],
+        "features": [
+          "Recommended for women",
+          "You can choose the design",
+          "Points + 3 times at Rakuten Ichiba",
+          "Selectable customization service (* 1)"
+        ]
+      },
+      {
+        "type": "jcb",
+        "id": 13,
+        "name": "Panda(grey)",
+        "desc": "This is a card",
+        "image": "panda_grey.png",
+        "comparables": [
+          {
+            "name": "International Brand",
+            "values": [
+              "Visa",
+              "MasterCard",
+              "JCB",
+              "American Express"
+            ]
+          },
+          {
+            "name": "Annual membership fee (tax included)",
+            "values": [
+              "Free for many years"
+            ]
+          },
+          {
+            "name": "Point",
+            "values": [
+              "1 point for every 100 you buy in the city",
+              "Points + 5 times at Rakuten Ichiba"
+            ]
+          },
+          {
+            "name": "Design Type",
+            "values": [
+              "PRakuten Card Shopping Panda Design",
+              "Rakuten PINK card shopping panda design"
+            ]
+          },
+          {
+            "name": "Other features",
+            "values": [
+              "Free access to domestic airport lounges",
+              "Free registration for Priority Pass, which allows you to use more than 1,300 airport lounges around the world"
+            ]
+          }
+        ],
+        "features": [
+          "Annual membership fee is free for many years",
+          "You can choose the design",
+          "Bank account is attached",
+          "Earn points other than Rakuten"
+        ]
+      },
+      {
+        "type": "visa",
+        "id": 14,
+        "name": " Pink Card",
+        "desc": "This is a card",
+        "image": "pink.png",
+        "comparables": [
+          {
+            "name": "International Brand",
+            "values": [
+              "Visa",
+              "MasterCard",
+              "American Express",
+              "JCB"
+            ]
+          },
+          {
+            "name": "Annual membership fee (tax included)",
+            "values": [
+              "Free for many years"
+            ]
+          },
+          {
+            "name": "Point",
+            "values": [
+              "1 point for every 100 you buy in the city",
+              "Points + 3 times at Rakuten Ichiba"
+            ]
+          },
+          {
+            "name": "Design Type",
+            "values": [
+              "Normal Design",
+              "Panda design for shopping",
+              "Minnie Mouse Design",
+              "Mickey mouse design"
+            ]
+          },
+          {
+            "name": "Other Features",
+            "values": [
+              "Customization service",
+              "Rakuten Group Special Offer Service",
+              "Lifestyle support service",
+              "Insurance for women"
+            ]
+          }
+        ],
+        "features": [
+          "Recommended for women",
+          "You can choose the design",
+          "Points + 3 times at Rakuten Ichiba",
+          "Selectable customization service (* 1)"
+        ]
+      },
+      {
+        "type": "jcb",
+        "id": 15,
+        "name": "Card(minnie mouse design)",
+        "desc": "This is a card",
+        "image": "disney.png",
+        "comparables": [
+          {
+            "name": "International Brand",
+            "values": [
+              "JCB"
+            ]
+          },
+          {
+            "name": "Annual membership fee (tax included)",
+            "values": [
+              "Free for many years"
+            ]
+          },
+          {
+            "name": "Point",
+            "values": [
+              "1 point for every 100 you buy in the city",
+              "Points + 3 times at Rakuten Ichiba"
+            ]
+          },
+          {
+            "name": "Design Type",
+            "values": [
+              "Minnie Mouse Design"
+            ]
+          },
+          {
+            "name": "Other Features",
+            "values": [
+              "Customization service",
+              "Rakuten Group Special Offer Service",
+              "Lifestyle support service",
+              "Insurance for women"
+            ]
+          }
+        ],
+        "features": [
+          "Recommended for women",
+          "You can choose the design",
+          "Points + 3 times at Rakuten Ichiba",
+          "Selectable customization service (* 1)"
+        ]
+      },
+      {
+        "type": "mastercard",
+        "id": 16,
+        "name": "Alpine Group Rakuten Card",
+        "desc": "This is a card",
+        "image": "alpen.png",
+        "comparables": [
+          {
+            "name": "International Brand",
+            "values": [
+              "Mastercard"
+            ]
+          },
+          {
+            "name": "Annual membership fee (tax included)",
+            "values": [
+              "Free for many years"
+            ]
+          },
+          {
+            "name": "Point",
+            "values": [
+              "1 point for every 100 you buy in the city",
+              "Points + 3 times at Rakuten Ichiba"
+            ]
+          },
+          {
+            "name": "Design Type",
+            "values": [
+              "Normal Design"
+            ]
+          },
+          {
+            "name": "Other Features",
+            "values": [
+              "Earn Alpine points",
+              "Receive special benefits of the Alpine Group"
+            ]
+          }
+        ],
+        "features": [
+          "With alpine point function",
+          "Points + 3 times at Rakuten Ichiba"
+        ]
+      }
+    ]
+  }
